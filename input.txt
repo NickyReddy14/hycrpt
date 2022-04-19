@@ -1,0 +1,11 @@
+Patient Name: Aditi Suresh
+Patient Age: 55
+Patient blood type: B positive
+Patient Address: 34th street,Vasanth Nagar,chennai ,Tamil Nadu,600028
+Pateint Phone Number:9059693059
+Patient Allergies:Latex
+Patient History: Anemia,High blood sugar,
+Consulting Doctor: Ananya Krishnan
+Symptoms: Headaches,Nosebleed,Fatigue,Vision problems,Chest pain
+Diagnosis: Hypertension
+Prescribed Medicines:amlodipine 500 mg-90 days
